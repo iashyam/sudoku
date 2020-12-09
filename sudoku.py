@@ -9,7 +9,7 @@ from random import randint, shuffle
 
 smith = Tk()
 smith.title("Sudoku")
-smith.iconbitmap('game.ico')
+#smith.iconbitmap('game.ico')
 smith.geometry('260x350')
 smith.minsize(260,350)
 smith.maxsize(260,350)
